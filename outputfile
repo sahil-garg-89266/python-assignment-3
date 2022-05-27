@@ -1,0 +1,63 @@
+Enter Your input as decimal number and get output as binary number
+15
+0b1111
+
+
+This is an interactive Python calculator program.
+Enter the expression only by using these operations (+,-,*,/,**,//,%) -:8**7+3-6*9*2-(5//3)-(9%2)
+your answer is equal to-: 2097045
+
+
+Answer of part(a)-: 35
+Enter the value of n
+5
+Answer of part(b)-: 10.0
+Enter the value of r1
+6
+Answer of part(c)-: 452.3893421169302
+Enter the value of r-: 2
+Enter the value of angle a-: 65
+Enter the value of angle b-: 78
+Answer of part(d)-:  1.0775232600663267
+Enter the value of x1-: 4
+Enter the value of x2-: 5
+Enter the value of y1-: 6
+Enter the value of y2-: 7
+Answer of part(d)-:  y2-y1/x2-x1 =  1.0
+
+
+
+In the range(5)
+0
+1
+2
+3
+4
+In the range(3, 10)
+3
+4
+5
+6
+7
+8
+9
+In the range(4 ,13, 3)
+4
+7
+10
+In the range(15, 5, -2)
+15
+13
+11
+9
+7
+In the range(5, 3)
+
+
+
+This program computes the molecular weight of carbohydrates 
+,for that Enter the number of atoms of hydrogen,carbon,oxygen 
+Enter the number of hydrogen atoms-: 18
+Enter the number of carbon atoms-: 9
+Enter the number of oxygen atoms-: 9
+The moleculer weight of carbohydrate = weight of hydrogen + weight of carbon + weight of oxygen= 270.23868
